@@ -1,0 +1,17 @@
+參數設置為
+PopulationSize = 20,
+iteration = 1000,
+CrossoverRate = 0.6,
+MutationRate = 0.1, 
+Run = 30,
+參數均可以在cpp檔裡的define做調整。
+
+Roulette :
+
+最佳解為77
+30run平均最佳解為 70.7
+
+Tournament :
+
+最佳解為100
+30run平均最佳解為 100
