@@ -7,6 +7,7 @@
 #include <time.h>
 #include <vector>
 
+
 #define ANTSNUM 30       //每一迭代螞蟻數量
 #define PHENUM 0.9       //每隻螞蟻攜帶的費洛蒙數量
 #define DONTCHOOSE 0.3   //不做輪盤的機率
